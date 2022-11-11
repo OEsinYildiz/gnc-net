@@ -1,0 +1,15 @@
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Application.deps.json
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Application.dll
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\bin\Debug\net6.0\ref\ETicaret.Application.dll
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\bin\Debug\net6.0\ETicaret.Application.pdb
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\bin\Debug\net6.0\ETicaretAPI.Domain.dll
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\bin\Debug\net6.0\ETicaretAPI.Domain.pdb
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.csproj.AssemblyReference.cache
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.AssemblyInfoInputs.cache
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.AssemblyInfo.cs
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.csproj.CoreCompileInputs.cache
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.csproj.CopyComplete
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.dll
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ref\ETicaret.Application.dll
+C:\Users\omere\Desktop\Gencay\ETicaretAPI\Core\ETicaret.Application\obj\Debug\net6.0\ETicaret.Application.pdb

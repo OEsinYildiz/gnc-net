@@ -1,0 +1,1 @@
+Bu katmanda Interface tanimlamalari yapilir.
